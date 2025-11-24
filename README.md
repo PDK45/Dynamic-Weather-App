@@ -22,13 +22,6 @@ This project is a mobile application developed using **Flutter** and **Dart**. I
 * **API:** [e.g., OpenWeatherMap API]
 * **Assets:** Lottie JSON Animations
 
-## 📸 Screenshots
-
-| Sunny Day | Rainy Day |
-|:---:|:---:|
-| <img src="URL_TO_IMAGE_1" width="200"> | <img src="URL_TO_IMAGE_2" width="200"> |
-
-*(Note: Add screenshots of your app here to showcase the UI)*
 
 ## 📦 How to Run
 
